@@ -2,7 +2,6 @@ package org.example.tests;
 
 import org.example.pages.HomePage;
 import org.example.pages.ShoppingCartEmptyPage;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
